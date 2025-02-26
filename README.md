@@ -4,8 +4,6 @@ Neste LAB, abordaremos o Copiloto e exploraremos os recursos da OpenAI, concentr
 
 Durante a prática, examinaremos de perto as funcionalidades dessas ferramentas, ao final do LAB, teremos uma compreensão mais aprofundada e prática desses recursos oferecidos pela OpenAI.
 
--- Autora do lab na DIO: 
-
 
 ### Copilot.
 
