@@ -59,4 +59,3 @@ Explore content filters in Azure OpenAI
 
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html
 
-Pois para a execução PRÁTICA destes dois conteúdos (Explore Azure OpenAI e Explore content filters in Azure OpenAI) está bloqueada para usuários com contas usando e-mails particulares (hotmail, gmail, etc). E este é o meu caso atualmente.
