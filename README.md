@@ -6,11 +6,6 @@ Durante a prática, examinaremos de perto as funcionalidades dessas ferramentas,
 
 -- Autora do lab na DIO: 
 
-Valéria Baptista
-
-Head of Cloud and Cybersecurity, CloudData Tech & DevOps
-
----
 
 ### Copilot.
 
